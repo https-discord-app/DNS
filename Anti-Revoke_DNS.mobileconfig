@@ -36,7 +36,7 @@
 </dict>
 </array>
 <key>PayloadDisplayName</key>
-<string>Anti-Revoke + Anti-Blacklist</string>
+<string>ExampleTestThing Sub to Glitch Hunter</string>
 <key>PayloadIdentifier</key>
 <string>khoindvn.bio.link.profile</string>
 <key>PayloadOrganization</key>
